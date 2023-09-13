@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Michaelrbacu
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning C#, SQL, Java, etc.
-- I’m a college student
+- 🌱 I’m currently learning React Js, C#, SQL, Java, etc.
+- I’m a college student pursuing a Bachelors in CIS.
 - 📫 How to reach me - michaelrbacu2@gmail.com
