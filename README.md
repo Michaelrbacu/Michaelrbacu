@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a college student pursuing a degree in Computer Information Systems (CIS). My focus is on programming, and I'm currently learning and working with technologies like React Js, C#, SQL, and Java.<br><br><br>## Featured Projects<br><br>Here are some of my recent projects:<br><br>- [Computer-Science-II-CSCIU300-03-FALL-2023](https://github.com/Michaelrbacu/Computer-Science-II-CSCIU300-03-FALL-2023): An Advanced Java Programming class project.<br><br>- [reactJS-Website](https://michaelrbacu.github.io/reactJS-Website): A React Js project showcasing my web development skills.<br><br>- [SeniorProject](https://github.com/Michaelrbacu/SeniorProject): My senior project with the hosted website code.<br><br>If you'd like to connect or collaborate, feel free to reach out via michaelrbacu2@gmail.com.</p>
+<p align="left">I'm a college student pursuing a degree in Computer Information Systems (CIS). My focus is on programming, and I'm currently learning and working with technologies like React Js, C#, SQL, and Java.<br><br><br>## Featured Projects<br><br>Here are some of my recent projects:<br><br>-[reactJS-Website](https://michaelrbacu.github.io/reactJS-Website): A React Js project showcasing my web development skills.<br><br>-  [Computer-Science-II-CSCIU300-03-FALL-2023](https://github.com/Michaelrbacu/Computer-Science-II-CSCIU300-03-FALL-2023): An Advanced Java Programming class project.<br><br>- [SeniorProject](https://github.com/Michaelrbacu/SeniorProject): My senior project with the hosted website code.<br><br>If you'd like to connect or collaborate, feel free to reach out via michaelrbacu2@gmail.com.</p>
 
 ###
 
